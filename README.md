@@ -44,4 +44,4 @@ Play online: [Run For Fun](https://swapnilpatil28.github.io/Run-For-Fun-Game-Dev
 
 ## Download or Play at itch.io
 
-- Link: [Run For Fun - itch.io](https://swapnilpatil28.itch.io/run-for-fun)  
+- Link: https://swapnilpatil28.itch.io/run-for-fun
